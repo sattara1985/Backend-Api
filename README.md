@@ -76,7 +76,7 @@
             SaleRoutes,
         };
     ```
-
+    el camino que se sigues es tienemos un archivo server.js  que llama a un archivo index,js en routes y este llama a un archivo ClientRoutes o ProductRoutes o SaleRoutes
     7. Importemoslos a la App.
     ![Alt text](image-1.png)
 
