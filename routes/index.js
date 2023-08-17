@@ -1,15 +1,11 @@
 const ClientRoutes = require('./ClientRoutes');
-const ProductRoutes= require('./ProductRoutes');
- const SaleRoutes= require('./SaleRoutes');
- 
+const ProductRoutes = require('./ProductRoutes');
+const SaleRoutes = require('./SaleRoutes');
 
-
-module.exports={
+module.exports = {
     ClientRoutes,
     ProductRoutes,
     SaleRoutes,
-
 };
-
 
 

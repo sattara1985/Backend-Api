@@ -1,9 +1,12 @@
 const express = require('express');
-const router= express.Router();
+const router = express.Router();
 
-router.get('/',(req,res)=> res.status(200).send({
-    message: 'Welcome to the API => SaleRoutes'
-    
+router.get('/', (req, res) =>  res.status(200).send({
+    message:"Sale"
 }));
 
-module.exports= router;
+module.exports = router;
+
+
+
+//message: 'Welcome to the API => SaleRoutes'

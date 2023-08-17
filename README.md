@@ -80,4 +80,10 @@
     7. Importemoslos a la App.
     ![Alt text](image-1.png)
 
+    se prueba en insomia el status 
+    ![Alt text](image-2.png)
+    ![Alt text](image-3.png)
+
+    ese ultimo / lo pone en cada productroutes o clinetroutes o saleroutes
+    
     8.
